@@ -1,9 +1,9 @@
 // Définir l'interface Véhicule
 interface Véhicule {
-    marque: string;       // Marque du véhicule
-    modèle: string;       // Modèle du véhicule
-    année: number;        // Année de fabrication
-    démarrer(): void;     // Méthode pour démarrer le véhicule
+    marque: string;       
+    modèle: string;       
+    année: number;        
+    démarrer(): void;    
 }
 
 // Implémenter la classe Voiture
